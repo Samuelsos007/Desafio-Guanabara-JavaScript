@@ -1,0 +1,1 @@
+Dica: se você digitar div#area e apertar tab ele cria automático <div id="area"></div>. Isso funciona tbm para classes e para tags personalizadas!
