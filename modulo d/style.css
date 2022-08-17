@@ -1,0 +1,10 @@
+@charset "UFT-8";
+div#area {
+    background-color: rgb(148, 148, 196);
+    color: rgb(170, 12, 12);
+    font: normal 20pt Arial;
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+    text-align: center;
+}
